@@ -21,20 +21,21 @@ const db = mysql.createConnection(
     console.log('Connected to the election database.')
 );
 
-db.query(`SELECT * FROM candidates WHERE id = 1`, (err, rows) => {
-    if (err) {
-        console.log(err);
-    }
-    console.log(rows);
-});
+// Get all the candidates
+app.get('/api/candidates', (req, res) => {
+    const sql = `SELECT * FROM candidates`;
 
-// Delete a candidate
-db.query(`DELETE FROM candidates WHERE id = ?`, 1, (err, result) => {
-    if (err) {
-        console.log(err);
-    }
-    console.log(result);
-});
+    db.query(sql, (err, rows) => {
+        if (err) {
+            res.status(500).json({ error: err.message });
+            return;
+        }
+        res.json({
+            message: 'success',
+            data: rows
+        });
+    });
+}); 
 
 // Default response for any other request (Not Found)
 app.use((req, res) => {
