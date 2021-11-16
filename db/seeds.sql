@@ -17,3 +17,17 @@ VALUES
 ('Montague', 'Summers', 3, 1),
 ('Octavia', 'Butler', 3, 1),
 ('Unica', 'Zurn', NULL, 1);
+
+INSERT INTO voters (first_name, last_name, email)
+VALUES 
+('James', 'Fraser', 'jf@goldenbough.edu'),
+('Jack', 'London', 'jflondon@ualaska.edu'),
+('Robert', 'Bruce', 'rbruce@scotland.net'),
+('Peter', 'Greenaway', 'pgreenaway@postmodern.com'),
+('Derek', 'Jarman', 'djarman@propsectcottage.net'),
+('Paolo', 'Pasolini', 'ppasolino@salo.com'),
+('Heathcote', 'Williams', 'hwilliams@bafta.com'),
+('Sandy', 'Powell', 'spowell@oscars.com'),
+('Emil', 'Zola', 'ezola@requin.com'),
+('Sissy', 'Coalpits', 'scoalpits@greenaway.com'),
+('Antionette', 'Carpet', 'acapet@dontloseyourhead.com'),
