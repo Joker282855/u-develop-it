@@ -113,6 +113,12 @@ app.post('/api/candidate', ({ body}, res) => {
 
 // Update a candidate's party
 app.put('/api/candidate/:id', (req, res) => {
+    const errors = inputCheck(req.body, 'party_id');
+
+    if (errors) {
+        res.status(400).json({ error: errors });
+    }
+
     const sql = `UPDATE candidates SET party_id = ?
                 WHERE id = ?`;
     const params = [req.body.party_id, req.params.id];
