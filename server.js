@@ -158,7 +158,7 @@ app.delete('/api/party/:id', (req, res) => {
             res.json({
                 message: 'deleted',
                 changes: result.affectedRows,
-                id: req.params.id
+                id: req.params.i
             });
         }
     });
