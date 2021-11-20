@@ -7,4 +7,8 @@ const db = mysql.createConnection({
     // Your MySQL password
     password: 'Coderrocks12!',
     database: 'election'
-});
+},
+    console.log('Connected to the database')
+);
+
+module.exports = db;
