@@ -59,3 +59,10 @@ VALUES
 ('Matthew', 'Lewis', 'milewis@monk.com'),
 ('William', 'Bradford', 'wbedAgrandour.net'),
 ('Anne', 'Radcliffe', 'arad@udolpho.uk'),
+('Charles', 'Brown', 'cbrown@wieland.us'),
+('Eliza', 'Parsons', 'lizzie@fierce.net'),
+('Susan', 'Hill', 'shill@womanblack.net'),
+('Sydney', 'Owneson', 'Sowen@think.net'),
+('Hubert', 'Crackanthorpe', 'hcrackan@goodletters.com'),
+('William', 'Carleton', 'wcarleton@literature.com'),
+('Gerald', 'Griffin', 'ggriff@lit.net');
