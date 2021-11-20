@@ -54,3 +54,8 @@ VALUES
 ('George', 'Meredith', 'gm@egoist.uk'),
 ('Margaret', 'Oliphant', 'moli@victorina.com'),
 ('Anthony', 'Trollope', 'atrollope@barchester.com'),
+('Charlotte', 'Yonge', 'cyonge@newday.com'),
+('Horace', 'Walpole', 'hal@otranto.com'),
+('Matthew', 'Lewis', 'milewis@monk.com'),
+('William', 'Bradford', 'wbedAgrandour.net'),
+('Anne', 'Radcliffe', 'arad@udolpho.uk'),
