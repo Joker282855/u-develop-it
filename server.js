@@ -1,6 +1,8 @@
 const express = require('express');
-const db = require('./db/connection');
 const inputCheck = require('./utils/inputCheck');
+const db = require('./db/connection');
+const apiRoutes = require('./routes/apiRoutes');
+
 
 const PORT = process.env.PORT || 3001;
 const app = express();
@@ -8,6 +10,8 @@ const app = express();
 // Express middleware
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
+
+app.use('/api', apiRoutes);
 
 // Get all the candidates
 app.get('/api/candidates', (req, res) => {
