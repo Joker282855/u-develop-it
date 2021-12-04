@@ -26,3 +26,6 @@ These tasks were achieved by following the lessons found in module 12 and fixing
 This application was built with Node.js, Javascript, MySQL, Sequlize, and implementing CRUD Operations to test the routes for the database.
 
 # Walkthrough Video
+
+# Contributors
+Josh Jackson
