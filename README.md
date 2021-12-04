@@ -20,3 +20,9 @@ This module had us create a backend database for an election. the database inclu
 6. Link the three tables together so that the candidates information, party they belong to, and how many votes they got can be displayed in the table created for the candidates.
 
 # Tasks Achieved By
+These tasks were achieved by following the lessons found in module 12 and fixing bugs in my code as they appeared while creating the database for this application.
+
+# Built With
+This application was built with Node.js, Javascript, MySQL, Sequlize, and implementing CRUD Operations to test the routes for the database.
+
+# Walkthrough Video
