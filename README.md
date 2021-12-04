@@ -6,9 +6,9 @@ This module had us create a backend database for an election. the database inclu
 
 # Table of Contents:
 - [Tasks](#tasks)
-- [Tasks Achieved By](#tasks)
-- [Built With](#built)
-- [Walkthrough Video](#walkthrough)
+- [Tasks Achieved By](#tasks-achieved-by)
+- [Built With](#built-with)
+- [Walkthrough Video](#walkthrough-video)
 - [Contributors](#contributors)
 
 # Tasks
