@@ -31,8 +31,7 @@ recommended version for most users is strongly suggested
 - <a href="https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide">Link For MySQL</a>
 
 step 2: Clone the code for the database from its repostiory on my github account. The link to the repository on my github account is listed below
--<a href="https://github.com/Joker282855/u-develop-it">
-
+-<a href="https://github.com/Joker282855/u-develop-it">Repository Link</a>
 
 # Contributors
 Josh Jackson
