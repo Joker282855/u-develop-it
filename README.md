@@ -24,8 +24,10 @@ This application was built with Node.js, Javascript, MySQL, Sequlize, and implem
 # How To Run Application:
 If you want to run this database for yourself on your own computer you need to follow the steps that will be listed down below.
 step 1: Download the software called Node.js and MySQL. Click on the links below to download Node.js and MySQL onto your computer 
-<a href="https://nodejs.org/en/">Link for Node.js</a>
-<a href="https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide">Link For MySQL</a>
+- <a href="https://nodejs.org/en/">Link for Node.js</a>
+It is recommended that you click on the version of node that is recommended for most users. Open the Node.js installer once it is done downloading and click on next untill
+you see the install button and click install. The link to download Node.js for a mac instead of a windows is listed down below.
+- <a href="https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide">Link For MySQL</a>
 
 # Contributors
 Josh Jackson
