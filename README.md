@@ -26,8 +26,13 @@ If you want to run this database for yourself on your own computer you need to f
 step 1: Download the software called Node.js and MySQL. Click on the links below to download Node.js and MySQL onto your computer 
 - <a href="https://nodejs.org/en/">Link for Node.js</a>
 It is recommended that you click on the version of node that is recommended for most users. Open the Node.js installer once it is done downloading and click on next untill
-you see the install button and click install. The link to download Node.js for a mac instead of a windows is listed down below.
+you see the install button and click install. Follow the same instructions if you are downloading it onto a mac instead of a windows. Remember that for both systems the
+recommended version for most users is strongly suggested
 - <a href="https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide">Link For MySQL</a>
+
+step 2: Clone the code for the database from its repostiory on my github account. The link to the repository on my github account is listed below
+-<a href="https://github.com/Joker282855/u-develop-it">
+
 
 # Contributors
 Josh Jackson
