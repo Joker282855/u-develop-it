@@ -21,5 +21,11 @@ This application was built with Node.js, Javascript, MySQL, Sequlize, and implem
 # Walkthrough Video
 <a href="https://watch.screencastify.com/v/XbduPL24B1jlsvAh8A8c">Link To Video</a>
 
+# How To Run Application:
+If you want to run this database for yourself on your own computer you need to follow the steps that will be listed down below.
+step 1: Download the software called Node.js and MySQL. Click on the links below to download Node.js and MySQL onto your computer 
+<a href="https://nodejs.org/en/">Link for Node.js</a>
+<a href="https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide">Link For MySQL</a>
+
 # Contributors
 Josh Jackson
