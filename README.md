@@ -4,13 +4,6 @@ U-Develop-It
 # Description:
 This module had us create a backend database for an election. the database included tables for the candidates, parties affiliated with the candidates, voters who participated in the election and the vote total associated with each candidate. The backend introduced using the db.query method to establish all the route for the election application.
 
-# Table of Contents:
-- [Tasks](#tasks)
-- [Tasks Achieved By](#tasks-achieved-by)
-- [Built With](#built-with)
-- [Walkthrough Video](#walkthrough-video)
-- [Contributors](#contributors)
-
 # Tasks
 1. Build the database for the election app and set up a file structure that would seed the database with values.
 2. Create a table for the candidates running in the election.
@@ -26,6 +19,7 @@ These tasks were achieved by following the lessons found in module 12 and fixing
 This application was built with Node.js, Javascript, MySQL, Sequlize, and implementing CRUD Operations to test the routes for the database.
 
 # Walkthrough Video
+<a href="https://watch.screencastify.com/v/XbduPL24B1jlsvAh8A8c">Link To Video</a>
 
 # Contributors
 Josh Jackson
