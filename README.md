@@ -32,7 +32,11 @@ recommended version for most users is strongly suggested
 
 step 2: Clone the code for the database from its repostiory on my github account. The link to the repository on my github account is listed below
 - <a href="https://github.com/Joker282855/u-develop-it">Repository Link</a>
-Click the code button in the top right corner and copy the link for https. Open up your gitbash terminal in visual studio code and use the git clone command to clone the repository onto your computer. Visual studio code and gitbash are software that you will have to download onto your computer if 
+Click the code button in the top right corner and copy the link for https. Open up your gitbash terminal in visual studio code and use the git clone command to clone the repository onto your computer. Visual studio code and gitbash are software that you will have to download onto your computer if they are not installed already. Search on youtube for
+instructional vidoes on installing visual studio code and gitbash onto your computer.
+
+step 3: Install the npm packages onto your computer
+The
 
 # Contributors
 Josh Jackson
